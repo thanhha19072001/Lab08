@@ -1,0 +1,6 @@
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.dll
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\bin\Debug\Lab08.DA.pdb
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.AssemblyReference.cache
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.csproj.CoreCompileInputs.cache
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.dll
+D:\LT-CSDL-master\Lab08_N_Layer\Lab08.DA\obj\Debug\Lab08.DA.pdb
